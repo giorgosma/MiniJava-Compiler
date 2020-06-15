@@ -12,6 +12,6 @@
 
 ## Execute
 
-- run **java Main ./input/.../file1.java ./input/.../file2.java ... **
+- run **java Main ./input/.../file1.java ./input/.../file2.java ...**
 
 - results in output/ folder
