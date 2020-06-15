@@ -1,6 +1,6 @@
 # Building a compiler for MiniJava, a subset of Java
 
-- Course Project of Compilers Course.
+- Project for Compilers Course.
 
 - Implemented in Java using JavaCC and JTB.
 
